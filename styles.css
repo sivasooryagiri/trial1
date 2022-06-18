@@ -1,0 +1,225 @@
+body{
+    width: 100%;
+    margin: auto;
+}
+#title{
+    background-color: #ff4c68;
+    
+    
+}
+h1{ 
+    font-family: 'Montserrat', sans-serif;
+    font-size: 4rem;
+    line-height: 1.5;
+}
+body{
+    
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.btn {
+    border-radius: 5px;
+    width: 125px;
+   
+}
+.clrb{
+    background-color: #3b3434;
+    margin-top: 53px;
+}
+.btnn{
+    margin-top: 53px;
+    margin-left: 15px;
+}
+.imgz
+{
+    position: relative;
+    bottom: 3px;
+}
+.imgtz{
+    height: 15px;
+    position: relative;
+    bottom: 1px;
+}
+.h {
+    color: white;
+    font-weight: bold;
+    font-size: 61px;
+}
+.top{
+  
+        font-family: 'Ubuntu', sans-serif;
+        font-size: 35px;
+    
+}
+.tx-dl{
+    position: relative;
+    top: 32px;
+    
+}
+
+
+.ro {
+    
+        transform: rotate(15deg);
+        width: 279px;
+        /* position: relative; */
+        /* right: -158px; */
+        margin-top: 4px;
+        /* margin-right: 165px; */
+        padding: 26px;
+        margin-left: 42px;
+        margin-bottom: 44px;
+   
+}
+
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.nav-item{
+    padding: 0 18px;
+}
+
+    .btn {
+        border-radius: 5px;
+        width: 143px;
+        font-size: 17px;
+        
+ }
+ .higb{
+    padding-bottom: 20px;
+ }
+
+    .col-md-6-s {
+        flex: 0 0 auto;
+        width: 68%;
+        /* margin-right: -5px; */
+        /* padding: 26px; */
+        position: relative;
+        left: 53px;
+    }
+    .border{
+        background-color: rgba(240, 248, 255, 0);
+    }
+    /* .col-lg-4 {
+        flex: 0 0 auto;
+        width: 33.333333%;
+    } */
+   .cl{
+    color: #ef8172;
+    
+   }
+ .cl:hover{
+    color: #ff4c68
+    }
+   .ss{
+    text-align: center;
+   }
+   #features{
+    padding: 5% 15%;
+   }
+   p{
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+   }
+   /* testimonials */
+   #testimonials{
+    background-color: #ef8172;
+    font-family: 'Montserrat', sans-serif;
+   text-align: center;
+   
+   color: white;
+}
+.tes-img{
+    border-radius: 100%;
+    height: 106px;
+    margin-top: 20px;
+}
+h2{
+  padding-bottom: 21px;
+}
+/* press */
+#press{
+    background-color: #ef8172;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.imgp{
+    width: 20%;
+    padding-bottom: 63px;
+    margin: 2%;
+}
+/* pricing
+ */
+
+ #pricing{
+    font-family: 'Ubuntu', sans-serif;;
+    font-weight: bolder;
+    text-align: center;
+    padding-top: 43px;
+    
+ }
+ 
+    .clrph2{
+        color: #f82242;
+    }
+    .dogc{
+        color: black;
+    }
+    .dogc:hover{
+        color: #ff4c68;
+    }
+    
+.clrrr{
+    width: 176px;
+}
+.carousel-item{
+    padding: 5% 15% 4% 15%;
+}
+.top-al{
+    margin-top:30px ;
+}
+.sizh1{
+    font-size: 66px;
+    margin-left: 60px;
+}
+.p-t{
+padding: 3% 15%;
+}
+.bt-al{
+    margin-top: 30px;
+    
+    font-family: 'Ubuntu', sans-serif;
+    
+
+}
+.bt-f{
+    margin-left: 60px;
+    font-size: 177px;
+    font-weight: bold;
+    color: rgb(31, 29, 29);
+}
+.bt-s{
+ position: relative;
+ left: 20px;
+}
+.btnclr2{
+    font-weight: bold;
+}
+.pt{
+    color: rgb(110, 108, 108);
+    font-weight: bold;
+}
+.cardhh:hover {
+    color: rgb(4, 90, 252);
+}
+.price-text:hover{
+    color: rgb(4, 90, 252);
+}
+.card{
+    border: none;
+}
